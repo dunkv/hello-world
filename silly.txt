@@ -2,8 +2,5 @@ This has new content
 
 That's all very interesting.
 
-<<<<<<< 15b36b131f5025600befde5483b21c7baa4b1dcb
 Problems, problems
-=======
 Blah Blah.
->>>>>>> mores stuff
